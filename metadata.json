@@ -1,0 +1,8 @@
+{
+  "name": "Kitanda Yetu",
+  "description": "Sistema profissional de Gestão Comercial e Ponto de Venda (POS) otimizado para pequenas e médias empresas em Angola, inspirado nos sistemas CEID Vendus e Negomil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

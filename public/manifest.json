@@ -1,0 +1,22 @@
+{
+  "short_name": "KitandaYetu",
+  "name": "Kitanda Yetu — Gestão Comercial & POS",
+  "description": "Sistema de Gestão Comercial e Ponto de Venda otimizado para o mercado angolano.",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/000000/shop.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/000000/shop.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait"
+}
